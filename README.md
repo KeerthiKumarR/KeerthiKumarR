@@ -76,10 +76,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/keerthirajgopal/">
-    <img src="https://leetcard.jacoblin.cool/keerthirajgopal?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/keerthirajgopal?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" height="200" />
   </a>
   <a href="https://codeforces.com/profile/rvkeerthi999">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rvkeerthi999&theme=dark" alt="Codeforces Stats" width="48%" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rvkeerthi999&theme=dark" alt="Codeforces Stats" height="200" />
   </a>
 </p>
 
@@ -88,12 +88,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeerthiKumarR&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiKumarR&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeerthiKumarR&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiKumarR&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeerthiKumarR&theme=dark&hide_border=true&background=0D1117&fire=FF9A00&ring=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeerthiKumarR&theme=dark&hide_border=true&background=0D1117&fire=FF9A00&ring=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" height="195" />
 </p>
 
 ---

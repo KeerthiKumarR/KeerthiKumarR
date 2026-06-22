@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Keerthi Kumar R Banner" width="100%" />
+  <a href="#top"><img src="./banner.png" alt="Keerthi Kumar R Banner" width="100%" /></a>
 </p>
 
 <h1 align="center">Hey there! I'm Keerthi Kumar R 👋</h1>
@@ -88,5 +88,5 @@
 ### 🌌 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+  <a href="#-3d-contribution-graph"><img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" /></a>
 </p>

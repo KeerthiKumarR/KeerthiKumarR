@@ -100,10 +100,6 @@
 
 ### 🌌 3D Contribution Graph
 
-Once configured, your daily contribution graph will render dynamically here:
-
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
 </p>
-
-*Note: The 3D graph is automatically updated daily by GitHub Actions. You can also trigger it manually under the **Actions** tab of this repository.*

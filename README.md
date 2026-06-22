@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there! I'm Keerthi Kumar R 👋</h1>
 <p align="center">
-  <strong>B.Tech Student in Computer Science Engineering (AI & ML) | Competitive Programmer | Open Source Enthusiast</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+AI+%26+ML+Student;Open+Source+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### 💫 About Me
 
-- 🎓 **Education**: Currently pursuing my **B.Tech in Computer Science Engineering**, specializing in **Artificial Intelligence & Machine Learning**.
+- 🎓 **Education**: Currently pursuing my **Bachelors in Computer Science Engineering**, specializing in **Artificial Intelligence & Machine Learning**.
 - 🚀 **Open Source**: Just starting out my open-source journey, eager to collaborate on meaningful projects and contribute to the community.
 - 💡 **Competitive Programming**: Passionate about solving complex algorithms and data structures. Active participant on platforms like LeetCode and Codeforces.
 - ⚙️ **Focus**: Deepening my knowledge in Machine Learning algorithms, Data Structures, and Software Engineering best practices.
@@ -69,19 +69,6 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </p>
 </details>
-
----
-
-### 🏆 Competitive Programming Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/keerthirajgopal/">
-    <img src="https://leetcard.jacoblin.cool/keerthirajgopal?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" height="200" />
-  </a>
-  <a href="https://codeforces.com/profile/rvkeerthi999">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rvkeerthi999&theme=dark" alt="Codeforces Stats" height="200" />
-  </a>
-</p>
 
 ---
 

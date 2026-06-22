@@ -84,5 +84,11 @@
 </p>
 
 <p align="center">
-  <a href="#-contribution-snake-animation"><img src="./assets/github-snake-3d.svg" alt="GitHub Contribution Snake" width="100%" /></a>
+  <a href="#-contribution-snake-animation">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+      <img alt="GitHub Contribution Snake" src="./assets/github-snake.svg" width="100%" />
+    </picture>
+  </a>
 </p>

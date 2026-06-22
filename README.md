@@ -83,10 +83,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeerthiKumarR&theme=dark&hide_border=true&background=0D1117&fire=FF9A00&ring=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" height="195" />
 </p>
 
----
-
-### 🌌 3D Contribution Graph
+### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <a href="#-3d-contribution-graph"><img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" /></a>
+  <a href="#-contribution-snake-animation"><img src="./assets/github-snake-3d.svg" alt="GitHub Contribution Snake" width="100%" /></a>
 </p>

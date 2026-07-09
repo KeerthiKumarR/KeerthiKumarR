@@ -75,12 +75,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeerthiKumarR&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiKumarR&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=keerthikumarr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keerthikumarr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeerthiKumarR&theme=dark&hide_border=true&background=0D1117&fire=FF9A00&ring=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=keerthikumarr&theme=dark&hide_border=true&background=0D1117&fire=FF9A00&ring=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">

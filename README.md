@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="#top"><img src="./banner.png" alt="Keerthi Kumar R Banner" width="100%" /></a>
-</p>
-
 <h1 align="center">Hey there! I'm Keerthi Kumar R 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+AI+%26+ML+Student;Open+Source+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
@@ -73,10 +69,6 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=keerthikumarr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="195" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=keerthikumarr&theme=dark&hide_border=true&background=0D1117&fire=FF9A00&ring=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" height="195" />
